@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645903648310",
+    "project_id": "uas-19312078",
+    "storage_bucket": "uas-19312078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645903648310:android:a8fda553a77d29e73fba97",
+        "android_client_info": {
+          "package_name": "com.uashafiz.uas_hafiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4C7wk06eXkSp7tBzEKp7tsbG_gtGZaNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
